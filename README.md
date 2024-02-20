@@ -1,13 +1,12 @@
 
 
-# Portfolio
+# Interview App
 
 ## Demo
-  <a href="https://portfolionew-esra.netlify.app/" target="_blank">Portfolio</a>
+  <a href="https://interview-app-nine.vercel.app/" target="_blank"> Interview App</a>
   
 ## Expected Outcome
 
-![Portfolio](portfolio.gif)
 
 
 ## Description
@@ -21,9 +20,9 @@ Project aims to create a portfolio.
 ## Project Skeleton
 
 ```
-Shopping Cart (folder)
+
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
@@ -51,7 +50,7 @@ SOLUTION
 
 ## Objective
 
-Build a portfolio using ReactJS.
+Build a  Interview App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
